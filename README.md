@@ -6,7 +6,7 @@ This project is a Streamlit-based application designed to assist users in planni
 ## Features
 
 - **User Input for Party Details**:
-  - Select location, capacity, date, cuisine, entertainment type, and budget for the party.
+  - Select location, capacity, date, cuisine, entertainment type and budget for the party.
   
 - **Adjustment Functionality**:
   - Modify the party plan details such as location, capacity, cuisine, entertainment, and budget via the sidebar and regenerate the plan based on updated input.
