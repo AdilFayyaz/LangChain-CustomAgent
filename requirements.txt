@@ -1,3 +1,4 @@
+streamlit
 accelerate==1.2.0
 aiohappyeyeballs==2.4.4
 aiohttp==3.11.9
