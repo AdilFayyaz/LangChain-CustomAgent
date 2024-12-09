@@ -1,4 +1,4 @@
-# LangChain-CustomAgent
+# LangChain MultiAgent
 # Birthday Party Planning Assistant
 
 This project is a Streamlit-based application designed to assist users in planning birthday parties by providing customizable suggestions for party details such as location, entertainment, cuisine, and budget. The app leverages AI agents to dynamically generate and adjust party plans based on user inputs and preferences.
