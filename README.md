@@ -65,7 +65,7 @@ Tools Integrated
 
 - Venue Finder: Suggests party venues based on location, capacity, date, and budget.
 - Catering Finder: Recommends catering options based on cuisine and budget.
-- Entertainment Finder: Provides entertainment options such as DJs, bands, and photobooths.
+- Entertainment Finder: Provides entertainment options such as DJs, bands, and photobooths. 
 
 
 
